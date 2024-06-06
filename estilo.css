@@ -1,0 +1,32 @@
+body{
+    font-family: Arial, sans-serif;
+}
+
+svg.icon{
+    width: 10%;
+}
+
+svg.logo-text{
+    margin-left: 20px;
+    width: 40%;
+}
+
+p.info{
+    margin: 10px 50px;
+}
+
+.grider{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.card-grid {
+    border: 1px #a68e8e solid;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.card-title {
+    background-color: #B7B8B9;
+}
