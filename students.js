@@ -7,7 +7,8 @@ const students = [
         "repositorio": "https://github.com/valen274/lugaresparacomer",
         "url": "https://valen274.github.io/lugaresparacomer/index.html",
         "imagen": "underConstruction.jpg",
-        "escuela": "Nombre de la Escuela"
+        "escuela": "Nombre de la Escuela",
+        "comentario": "La experiencia fue..."
     },
     {
         "tema": "¿Qué mirar?",
@@ -17,7 +18,8 @@ const students = [
         "repositorio": "https://github.com/felicitaslaje/-No-sabes-qu-ver-",
         "url": "https://felicitaslaje.github.io/-No-sabes-qu-ver-/Holamundo-pasantia.html",
         "imagen": "underConstruction.jpg",
-        "escuela": "Nombre de la Escuela"
+        "escuela": "Nombre de la Escuela",
+        "comentario": "La experiencia fue..."
     },
     {
         "tema": "Oficios.com",
@@ -27,7 +29,8 @@ const students = [
         "repositorio": "https://github.com/FrancoFontana9/Oficios.com",
         "url": "https://francofontana9.github.io/Oficios.com/Oficios.html",
         "imagen": "underConstruction.jpg",
-        "escuela": "Nombre de la Escuela"
+        "escuela": "Nombre de la Escuela",
+        "comentario": "La experiencia fue..."
     },
     {
         "tema": "Reserva tu Gym",
@@ -37,6 +40,7 @@ const students = [
         "repositorio": "https://github.com/AgusAcosta18/Reserva-tu-horario-de-gimnacio",
         "url": "https://agusacosta18.github.io/Reserva-tu-horario-de-gimnacio/indice.html",
         "imagen": "underConstruction.jpg",
-        "escuela": "Nombre de la Escuela"
+        "escuela": "Nombre de la Escuela",
+        "comentario": "La experiencia fue..."
     }
 ]

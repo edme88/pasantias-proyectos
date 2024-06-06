@@ -2,10 +2,21 @@ body{
     font-family: Arial, sans-serif;
 }
 
+header{
+    margin: 20px 0 0 20px;
+}
 svg.icon{
     width: 10%;
 }
 
+.github {
+    width: 20px;
+}
+
+img.project{
+    width: 90%;
+    margin: 10px;
+}
 svg.logo-text{
     margin-left: 20px;
     width: 40%;
@@ -15,18 +26,49 @@ p.info{
     margin: 10px 50px;
 }
 
-.grider{
-    display: grid;
-    grid-template-columns: auto auto auto;
+@media (width >= 700px){
+    .grider{
+        display: grid;
+        grid-template-columns: auto auto auto;
+    }
 }
+
+@media (width < 700px){
+    .grider{
+        display: grid;
+        grid-template-columns: auto;
+    }
+}
+
 
 .card-grid {
     border: 1px #a68e8e solid;
     border-radius: 10px;
     margin: 10px;
-    padding: 10px;
+    padding: 0;
+    box-shadow: rgba(63, 48, 48, 0.3) 3px 3px 5px;
 }
 
 .card-title {
     background-color: #B7B8B9;
+    padding: 15px;
+    border-radius: 10px 10px 0 0;
+}
+
+.card-content{
+    column-count: 2;
+    padding: 0 0 0 0.5em;
+}
+
+.subtitles{
+    font-weight: bold;
+}
+
+.badge {
+    background-color: #3f3030;
+    float: right;
+}
+
+.coment{
+    margin: 5px;
 }

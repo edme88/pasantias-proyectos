@@ -7,8 +7,8 @@
     <link href="estilo.css" type="text/css" rel="stylesheet">
     <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
     <script src="students.js"></script>
-    <!--link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script-->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 </head>
 <body>
 <header>
@@ -33,13 +33,25 @@
         <div class="card-grid" v-for="student in students">
             <div class="card-title">
                 <h4>{{ student.tema }}</h4>
-                <a href="{{ student.repositorio }}">Repo</a>
+                <strong>
+                <a :href="student.repositorio">
+                    <img class="github" src="images/github-icon.png">Repo
+                </a>
+                </strong>
+                <span class="float-right badge badge-secondary"><b>Fecha </b>{{ student.mes }} {{ student.anio }}</span>
             </div>
             <div class="card-content">
+                <p class="subtitles">Alumnos:</p>
                 <ul>
                     <li v-for="autor in student.autor">{{ autor }}</li>
                 </ul>
+                <p class="subtitles">Nombre de la Escuela:</p>
+                <p>{{ student.escuela }}</p>
+                <a :href="student.url">
+                <img class="project" :src="`images/${student.imagen}`" alt="Imagen del proyecto">
+                </a>
             </div>
+            <p class="coment">{{ student.comentario }}</p>
         </div>
     </div>
 </main>
