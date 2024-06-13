@@ -1,24 +1,24 @@
 const students = [
     {
-        "tema": "¿Dónde comer?",
-        "autor": ["Valentina Apellido"],
+        "tema": "Mesa Exquisita",
+        "autor": ["Valentina Navarrete"],
         "anio": "2024",
         "mes": "Junio",
-        "repositorio": "https://github.com/valen274/lugaresparacomer",
-        "url": "https://valen274.github.io/lugaresparacomer/index.html",
-        "imagen": "underConstruction.jpg",
-        "escuela": "Nombre de la Escuela",
+        "repositorio": "https://github.com/valen274/mesa-exquista",
+        "url": "https://valen274.github.io/mesa-exquista/index.html",
+        "imagen": "mesa-exquisita.png",
+        "escuela": "Instituto Nuestra Señora de Lujan",
         "comentario": "La experiencia fue..."
     },
     {
         "tema": "¿Qué mirar?",
-        "autor": ["Felicitas Acosta"],
+        "autor": ["Felicitas Laje"],
         "anio": "2024",
         "mes": "Junio",
-        "repositorio": "https://github.com/felicitaslaje/-No-sabes-qu-ver-",
-        "url": "https://felicitaslaje.github.io/-No-sabes-qu-ver-/Holamundo-pasantia.html",
-        "imagen": "underConstruction.jpg",
-        "escuela": "Nombre de la Escuela",
+        "repositorio": "https://github.com/felicitaslaje/MovieRecs",
+        "url": "https://felicitaslaje.github.io/MovieRecs/index.html",
+        "imagen": "movieRecs.png",
+        "escuela": "Torreon",
         "comentario": "La experiencia fue..."
     },
     {
@@ -27,8 +27,8 @@ const students = [
         "anio": "2024",
         "mes": "Junio",
         "repositorio": "https://github.com/FrancoFontana9/Oficios.com",
-        "url": "https://francofontana9.github.io/Oficios.com/Oficios.html",
-        "imagen": "underConstruction.jpg",
+        "url": "https://edme88.github.io/Oficios.com/Oficios.html",
+        "imagen": "oficios.png",
         "escuela": "Nombre de la Escuela",
         "comentario": "La experiencia fue..."
     },
@@ -38,9 +38,9 @@ const students = [
         "anio": "2024",
         "mes": "Junio",
         "repositorio": "https://github.com/AgusAcosta18/Reserva-tu-horario-de-gimnacio",
-        "url": "https://agusacosta18.github.io/Reserva-tu-horario-de-gimnacio/indice.html",
-        "imagen": "underConstruction.jpg",
-        "escuela": "Nombre de la Escuela",
+        "url": "https://agusacosta18.github.io/Paginadegym/index.html",
+        "imagen": "beFitGym.png",
+        "escuela": "Instituto Nuestra Señora de Lujan",
         "comentario": "La experiencia fue..."
     }
 ]
