@@ -42,5 +42,148 @@ const students = [
         "imagen": "beFitGym.png",
         "escuela": "Instituto Nuestra Señora de Lujan",
         "comentario": "La experiencia fue..."
+    },
+    {
+        "tema": "Parking",
+        "autor": ["Franco Mussetti"],
+        "anio": "2024",
+        "mes": "Septiembre",
+        "repositorio": "",
+        "url": "",
+        "imagen": "",
+        "escuela": "Lasalle",
+        "comentario": "La experiencia fue..."
+    },
+    {
+        "tema": "Novedades Musicales",
+        "autor": ["Juan Ignacio Rozo"],
+        "anio": "2024",
+        "mes": "Septiembre",
+        "repositorio": "",
+        "url": "",
+        "imagen": "",
+        "escuela": "Lasalle",
+        "comentario": "La experiencia fue..."
+    },
+    {
+        "tema": "Resolver Problemas con la Compu",
+        "autor": ["Teo Parise"],
+        "anio": "2024",
+        "mes": "Septiembre",
+        "repositorio": "",
+        "url": "",
+        "imagen": "",
+        "escuela": "Lasalle",
+        "comentario": "La experiencia fue..."
+    },
+    {
+        "tema": "Organigrama y Tareas",
+        "autor": ["Nicolás Merlo"],
+        "anio": "2024",
+        "mes": "Septiembre",
+        "repositorio": "",
+        "url": "",
+        "imagen": "",
+        "escuela": "Lasalle",
+        "comentario": "La experiencia fue..."
+    },
+    {
+        "tema": "Turismo en Córdoba",
+        "autor": ["Benjamin Duvu"],
+        "anio": "2024",
+        "mes": "Septiembre",
+        "repositorio": "",
+        "url": "",
+        "imagen": "",
+        "escuela": "Lasalle",
+        "comentario": "La experiencia fue..."
+    },
+    {
+        "tema": "Tienda Agricultura",
+        "autor": ["Fabricio Lavezzari"],
+        "anio": "2024",
+        "mes": "Septiembre",
+        "repositorio": "",
+        "url": "",
+        "imagen": "",
+        "escuela": "Lasalle",
+        "comentario": "La experiencia fue..."
+    },
+    {
+        "tema": "Ventas y Reseñas",
+        "autor": ["Santiago Biglia"],
+        "anio": "2024",
+        "mes": "Septiembre",
+        "repositorio": "",
+        "url": "",
+        "imagen": "",
+        "escuela": "Lasalle",
+        "comentario": "La experiencia fue..."
+    },
+    {
+        "tema": "Recetas",
+        "autor": ["Julián Bartolomei"],
+        "anio": "2024",
+        "mes": "Septiembre",
+        "repositorio": "",
+        "url": "",
+        "imagen": "",
+        "escuela": "Lasalle",
+        "comentario": "La experiencia fue..."
+    },
+    {
+        "tema": "Calendario de Examenes",
+        "autor": ["Felipe Parlamento"],
+        "anio": "2024",
+        "mes": "Septiembre",
+        "repositorio": "",
+        "url": "",
+        "imagen": "",
+        "escuela": "Lasalle",
+        "comentario": "La experiencia fue..."
+    },
+    {
+        "tema": "Arregla tu auto",
+        "autor": ["Facundo Martinez"],
+        "anio": "2024",
+        "mes": "Septiembre",
+        "repositorio": "",
+        "url": "",
+        "imagen": "",
+        "escuela": "Lasalle",
+        "comentario": "La experiencia fue..."
+    },
+    {
+        "tema": "Tabla de Liga de Futbol",
+        "autor": ["Juan Cruz Lopez"],
+        "anio": "2024",
+        "mes": "Septiembre",
+        "repositorio": "",
+        "url": "",
+        "imagen": "",
+        "escuela": "Academia Arguello",
+        "comentario": "La experiencia fue..."
+    },
+    {
+        "tema": "Liga de Rugby",
+        "autor": ["Ramón Ortega"],
+        "anio": "2024",
+        "mes": "Septiembre",
+        "repositorio": "",
+        "url": "",
+        "imagen": "",
+        "escuela": "Lasalle",
+        "comentario": "La experiencia fue..."
+    },
+    {
+        "tema": "Liga de Basquest",
+        "autor": ["Nicolás Bulacio"],
+        "anio": "2024",
+        "mes": "Septiembre",
+        "repositorio": "",
+        "url": "",
+        "imagen": "",
+        "escuela": "Lasalle",
+        "comentario": "La experiencia fue..."
     }
 ]
