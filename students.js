@@ -147,7 +147,7 @@ const students = [
         "autor": ["Facundo Martinez"],
         "anio": "2024",
         "mes": "Septiembre",
-        "repositorio": "https://github.com/Facundo0",
+        "repositorio": "https://github.com/facuundo0/FacundoProyects",
         "url": "",
         "imagen": "",
         "escuela": "Lasalle",
