@@ -50,7 +50,7 @@ const students = [
         "mes": "Septiembre",
         "repositorio": "https://github.com/francomussetti/Parking",
         "url": "https://francomussetti.github.io/Parking/index.html",
-        "imagen": "underConstruction.jpg",
+        "imagen": "parking.png",
         "escuela": "Lasalle",
         "comentario": "La experiencia fue..."
     },
@@ -61,7 +61,7 @@ const students = [
         "mes": "Septiembre",
         "repositorio": "https://github.com/Ignarozo/Informaci-n-Musical",
         "url": "https://Ignarozo.github.io/Informaci-n-Musical/index.html",
-        "imagen": "underConstruction.jpg",
+        "imagen": "NovedadesMusicales.png",
         "escuela": "Lasalle",
         "comentario": "La experiencia fue..."
     },
@@ -83,7 +83,7 @@ const students = [
         "mes": "Septiembre",
         "repositorio": "https://github.com/NicolasMerlo06/organigrama-empresas",
         "url": "https://NicolasMerlo06.github.io/organigrama-empresas/index.html",
-        "imagen": "underConstruction.jpg",
+        "imagen": "Organigrama.png",
         "escuela": "Lasalle",
         "comentario": "La experiencia fue..."
     },
@@ -94,7 +94,7 @@ const students = [
         "mes": "Septiembre",
         "repositorio": "https://github.com/benjaduva/Cordobismo",
         "url": "https://benjaduva.github.io/Cordobismo/index.html",
-        "imagen": "underConstruction.jpg",
+        "imagen": "Cordobismo.png",
         "escuela": "Lasalle",
         "comentario": "La experiencia fue..."
     },
@@ -138,7 +138,7 @@ const students = [
         "mes": "Septiembre",
         "repositorio": "https://github.com/Parla02/Mi-Calendario-Estudiantil",
         "url": "https://Parla02.github.io/Mi-Calendario-Estudiantil/Inicio.html",
-        "imagen": "underConstruction.jpg",
+        "imagen": "Colegio.png",
         "escuela": "Lasalle",
         "comentario": "La experiencia fue..."
     },
@@ -149,7 +149,7 @@ const students = [
         "mes": "Septiembre",
         "repositorio": "https://github.com/facuundo0/FacundoProyects",
         "url": "https://facuundo0.github.io/FacundoProyects/index.html",
-        "imagen": "underConstruction.jpg",
+        "imagen": "AutoHelps.png",
         "escuela": "Lasalle",
         "comentario": "La experiencia fue..."
     },
@@ -160,7 +160,7 @@ const students = [
         "mes": "Septiembre",
         "repositorio": "https://github.com/juan-lopez06/LigaFutbol",
         "url": "https://juan-lopez06.github.io/LigaFutbol/index.html",
-        "imagen": "underConstruction.jpg",
+        "imagen": "LigaFutbol.png",
         "escuela": "Academia Arguello",
         "comentario": "La experiencia fue..."
     },
@@ -171,7 +171,7 @@ const students = [
         "mes": "Septiembre",
         "repositorio": "https://github.com/Ramoncito07/SOMOSTALA",
         "url": "https://Ramoncito07.github.io/SOMOSTALA/index.html",
-        "imagen": "underConstruction.jpg",
+        "imagen": "Tala.png",
         "escuela": "Lasalle",
         "comentario": "La experiencia fue..."
     },
@@ -182,8 +182,96 @@ const students = [
         "mes": "Septiembre",
         "repositorio": "https://github.com/nicobulacio/ligadebasquet-cordoba",
         "url": "https://nicobulacio.github.io/ligadebasquet-cordoba/index.html",
-        "imagen": "underConstruction.jpg",
+        "imagen": "LigaBasquet.png",
         "escuela": "Lasalle",
+        "comentario": "La experiencia fue..."
+    },
+    {
+        "tema": "Selector de Videojuegos",
+        "autor": ["Lucas Gaitan"],
+        "anio": "2024",
+        "mes": "Septiembre",
+        "repositorio": "https://github.com/",
+        "url": "",
+        "imagen": "underConstruction.jpg",
+        "escuela": "Nuestra Señora de Luján",
+        "comentario": "La experiencia fue..."
+    },
+    {
+        "tema": "Librería de Inteligencia Artificial",
+        "autor": ["Agostino Vera"],
+        "anio": "2024",
+        "mes": "Septiembre",
+        "repositorio": "https://github.com/",
+        "url": "",
+        "imagen": "underConstruction.jpg",
+        "escuela": "Cinco Ríos",
+        "comentario": "La experiencia fue..."
+    },
+    {
+        "tema": "Aprendé a Programar",
+        "autor": ["Sixto José Finocchietti"],
+        "anio": "2024",
+        "mes": "Septiembre",
+        "repositorio": "https://github.com/",
+        "url": "",
+        "imagen": "underConstruction.jpg",
+        "escuela": "Cinco Ríos",
+        "comentario": "La experiencia fue..."
+    },
+    {
+        "tema": "Actividades Turísticas",
+        "autor": ["Luca Rossi"],
+        "anio": "2024",
+        "mes": "Septiembre",
+        "repositorio": "https://github.com/",
+        "url": "",
+        "imagen": "underConstruction.jpg",
+        "escuela": "Nuestra Señora de Luján",
+        "comentario": "La experiencia fue..."
+    },
+    {
+        "tema": "Rutina de Gimnasio",
+        "autor": ["Mateo Garay"],
+        "anio": "2024",
+        "mes": "Septiembre",
+        "repositorio": "https://github.com/",
+        "url": "",
+        "imagen": "underConstruction.jpg",
+        "escuela": "Nuestra Señora de Luján",
+        "comentario": "La experiencia fue..."
+    },
+    {
+        "tema": "Liga Cordobesa de Fútbol",
+        "autor": ["Simón Llanos"],
+        "anio": "2024",
+        "mes": "Septiembre",
+        "repositorio": "https://github.com/",
+        "url": "",
+        "imagen": "underConstruction.jpg",
+        "escuela": "Cinco Ríos",
+        "comentario": "La experiencia fue..."
+    },
+    {
+        "tema": "Club PSG",
+        "autor": ["Emilio Ginipro", "Pedro Gomez"],
+        "anio": "2024",
+        "mes": "Septiembre",
+        "repositorio": "https://github.com/",
+        "url": "",
+        "imagen": "underConstruction.jpg",
+        "escuela": "Cinco Ríos",
+        "comentario": "La experiencia fue..."
+    },
+    {
+        "tema": "Padel",
+        "autor": ["Camilo Cattaneo", "Gonzalo Rognoni"],
+        "anio": "2024",
+        "mes": "Septiembre",
+        "repositorio": "https://github.com/",
+        "url": "",
+        "imagen": "underConstruction.jpg",
+        "escuela": "Cinco Ríos",
         "comentario": "La experiencia fue..."
     }
 ]
